@@ -56,8 +56,3 @@ var repoName = input[1];
 getRepoContributors(repoOwner, repoName);
 
 
-  // getRepoContributors("jquery", "jquery", function(err, result) {
-  //   console.log("Errors:", err);
-  //   console.log("Result:", result);
-  // });
-  //step 7
